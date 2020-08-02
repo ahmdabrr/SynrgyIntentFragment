@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:id="@+id/itemNavigationBundle"
+        android:title="Bundle"
+        android:icon="@drawable/ic_bundle"/>
+
+    <item
+        android:id="@+id/itemNavigationSerializable"
+        android:title="Serializable"
+        android:icon="@drawable/ic_serializable" />
+
+    <item
+        android:id="@+id/itemNavigationParcelable"
+        android:title="Parcelable"
+        android:icon="@drawable/ic_parceable" />
+
+    <item
+        android:id="@+id/itemNavigationDial"
+        android:title="Dial"
+        android:icon="@drawable/ic_dial" />
+
+    <item
+        android:id="@+id/itemNavigationWhatsapp"
+        android:title="WhatsApp"
+        android:icon="@drawable/ic_whatsapp" />
+</menu>
